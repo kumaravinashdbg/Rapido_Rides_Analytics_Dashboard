@@ -17,7 +17,7 @@
 
 ## 📌 Project Overview
 
-The **Rapido Rides Analytics Dashboard** is a comprehensive data analysis project built to explore ride-booking behavior for one of India's largest bike-taxi and auto-rickshaw platforms. Using **10,000 ride records**, this project uncovers:
+The **Rapido Rides Analytics Dashboard** is a comprehensive data analysis project built to explore ride-booking behavior for one of India's largest bike-taxi and auto-rickshaw platforms. Using **150,000 ride records**, this project uncovers:
 
 - 📈 Revenue and booking trends across **months, days, and hours**
 - 🚗 Performance of different **vehicle types** (Auto, Bike, eBike, Go Sedan, etc.)
@@ -63,34 +63,34 @@ The dashboard is divided into **3 analytical pages**:
 | `Driver / Customer Rating` | Ratings (1–5) |
 | `Payment Method` | UPI, Cash, Card, Wallet, etc. |
 
-**Total Records:** 10,000+ bookings
+**Total Records:** 150,000 bookings
 
 ---
 
 ## 🔍 Key Insights
 
 ### 💰 Revenue & Bookings
-- **Total Revenue:** ₹ 78.75 Lakhs from 10,000+ bookings
+- **Total Revenue:** ₹ 520 Lakhs from 150,000 bookings
 - **Peak Booking Hour:** **10 AM** — Office/working hours drive maximum demand
 - **Lowest Booking Month:** **February** — Fewest days in the month
 - **Highest Revenue Months:** **October & November** — Festive season surge
 
 ### 🚗 Vehicle Type Trends
-- **Auto** is the **most booked vehicle** (~3,400 rides) — cheap, easy, and ideal for short distances
+- **Auto** is the **most booked vehicle** (~37,000 rides) — cheap, easy, and ideal for short distances
 - **Premier Sedan & Uber XL** generate **higher revenue per ride** but fewer bookings
 - **eBike** rides are growing in short-distance segments
 
 ### ❌ Cancellation Analysis
-- **~9.5%** of rides cancelled by **customers**
-- **~8.5%** of rides cancelled by **drivers**
+- **~7.33%** of rides cancelled by **customers**
+- **~18.0%** of rides cancelled by **drivers**
 - **Top Customer Reason:** *"Driver is not moving towards pickup location"*
 - **Top Driver Reason:** *"Customer related issue"* / *"More than permitted people"*
 - **Peak Cancellation Hour:** **10 AM** — High volume = high chance of failure
 - **Peak Cancellation Day:** **Tuesday** | **Lowest:** **Saturday**
 
 ### ⭐ Ratings
-- **Average Customer Rating:** 4.3 ⭐
-- **Average Driver Rating:** 4.3 ⭐
+- **Average Customer Rating:** 4.4 ⭐
+- **Average Driver Rating:** 4.2 ⭐
 
 ---
 
